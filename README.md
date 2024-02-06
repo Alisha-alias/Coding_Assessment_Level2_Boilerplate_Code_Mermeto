@@ -6,4 +6,4 @@
 
 4. Select any Color and Size to know the Discount.
 
-5. To ensure your selection click on Add To Cart (It will display all the details (Embrace Sideboard with Color and Size) in a pop up window).
+5. To ensure your selection click on Add To Cart (It will display all the details (Embrace Sideboard with Color and Size) in a pop up window). 
